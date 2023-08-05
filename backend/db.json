@@ -1,0 +1,82 @@
+{
+  "artworks": [
+    {
+      "picture": "https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "title": "Abstract Patterns",
+      "artist": "David Lee",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac ante vel nunc commodo varius."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1500964757637-c85e8a162699?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1203&q=80",
+      "title": "Vibrant City Life",
+      "artist": "Sophia Johnson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel ultrices odio."
+    },
+    {
+      "picture": "https://plus.unsplash.com/premium_photo-1664438942574-e56510dc5ce5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "title": "Ocean Waves",
+      "artist": "William Taylor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo dolor vitae scelerisque."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1515261439133-0f6cfb098e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Misty Forest",
+      "artist": "Liam Anderson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut mi eu orci dignissim scelerisque nec et odio."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Vintage Café",
+      "artist": "Emma Wilson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1500043204644-768d20653f32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGNvbG9yc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "Autumn Leaves",
+      "artist": "Noah Garcia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper elit vitae nibh iaculis, nec pellentesque arcu consequat."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1550684848-86a5d8727436?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGNvbG9yc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "Gentle Breeze",
+      "artist": "Isabella Lopez",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis justo vitae justo volutpat, nec posuere metus interdum."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1607457632731-266db62789fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Serenity",
+      "artist": "Mason Hill",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed justo nec metus hendrerit facilisis eu eget urna."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1500042600524-37ecb686c775?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Dancing Colors",
+      "artist": "Sophia Turner",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod, erat ut congue mattis, libero justo euismod velit."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1459478309853-2c33a60058e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Urban Jungle",
+      "artist": "Lucas Martinez",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget magna vel ex dignissim posuere."
+    },
+    {
+      "picture": "https://images.unsplash.com/photo-1513151233558-d860c5398176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Autumn in the Park",
+      "artist": "Aria Robinson",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam convallis justo eu neque fringilla, vel lacinia eros eleifend."
+    },
+    {
+      "picture": "https://plus.unsplash.com/premium_photo-1685082778336-282f52a3a923?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "title": "Night Sky",
+      "artist": "Alexander Adams",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod quam sit amet facilisis cursus."
+    },
+    {
+      "picture": "https://plus.unsplash.com/premium_photo-1664304077938-d9f65c41583c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "title": "Rural Landscape",
+      "artist": "Grace Phillips",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vulputate tortor a dui auctor iaculis."
+    }
+  ]
+}
